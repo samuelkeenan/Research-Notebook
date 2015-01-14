@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3"/>
+        <Document ID="4"/>
+        <Document ID="5">
+            <Title>J14 Open Note book</Title>
+            <Synopsis>-bettermess: For note taking
+-Stackoverflow and DH Q&amp;A for help with github</Synopsis>
+        </Document>
+        <Document ID="6">
+            <Title>J14 Github</Title>
+            <Synopsis>Github doesn't give a fuck if nothing is in the repository. Put a readme.md in it</Synopsis>
+        </Document>
+        <Document ID="7">
+            <Title>J14 </Title>
+        </Document>
+    </Documents>
+</SearchIndexes>

@@ -1,0 +1,11 @@
+Big data for dead people
+
+[Big Data] (http://historyonics.blogspot.ca/2013/12/big-data-for-dead-people-digital.html)
+
+Using the Uk National Archieves we have layers of xml data on people, in this case on Sarah Durrant. We can use these layers to go deeper into her story. 
+
+We can analyse where she lived, the circumstaces of her criminal trial, and use resources like voyant tools to analyse it. 
+
+We can also compare her trial to the trials of 240,000 other people recorded by the Old Bailey. 
+
+The idea is to be able to create tools that allow us as historians to see the macro and the micro. We can focus on the trial of one women, but compare that with thousands of others as well to see what that tells us. 
